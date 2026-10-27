@@ -1,0 +1,33 @@
+
+# Eclipse IDE files
+.settings/
+.project
+.classpath
+
+# Compiled Java files
+*.class
+bin/
+
+# Build output
+build/
+target/
+
+# Eclipse server and deployment files
+Servers/
+.metadata/
+
+# Temporary and log files
+*.log
+*.tmp
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Packaged deployment files
+*.war
+*.ear
